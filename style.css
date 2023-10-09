@@ -1,0 +1,107 @@
+.bg{
+    position: fixed;
+    min-width: 100%;
+    min-height: 100%;
+    right: 0;
+    bottom: 0;
+    
+}
+.main{
+    width: 1200px;
+    height: 1000px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    position: relative;
+}
+.lab
+{
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-shadow:5px 5px 20px rgba(0, 255, 255, 0.525);
+    position: relative;
+
+
+}
+.div
+{
+    display: flex;
+    justify-content: space-between;
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    position: relative;
+}
+.input
+{
+    border: 3px solid rgb(255, 255, 255) ;
+    width: 700px;
+    height: 40px;
+   
+    position: relative;
+    border-radius: 20px;
+    background-color: rgba(0, 0, 0, 0.447);
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-shadow:5px 5px 25px rgba(0, 255, 255, 0.525);
+    box-shadow: 1px 1px 20px rgba(0, 255, 255, 0.525) ;
+
+}
+
+.input2
+{
+    border: 3px solid rgb(255, 255, 255) ;
+    width: 300px;
+    height: 40px;
+   
+    position: relative;
+    border-radius: 20px;
+    background-color: rgba(0, 0, 0, 0.447);
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-shadow:5px 5px 25px rgba(0, 255, 255, 0.525);
+    box-shadow: 1px 1px 20px rgba(0, 255, 255, 0.525) ;
+
+}
+
+.lab2
+{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-shadow:5px 5px 20px rgba(0, 255, 255, 0.525);
+    position: relative;
+
+
+}
+.lab3
+{
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-shadow:5px 5px 20px rgba(0, 255, 255, 0.525);
+    position: relative;
+
+
+}
+
+.input3
+{
+    border: 3px solid rgb(255, 255, 255) ;
+    width: 680px;
+    height: 40px;
+   
+    position: relative;
+    border-radius: 20px;
+    background-color: rgba(0, 0, 0, 0.447);
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-shadow:5px 5px 25px rgba(0, 255, 255, 0.525);
+    box-shadow: 1px 1px 20px rgba(0, 255, 255, 0.525) ;
+
+}
